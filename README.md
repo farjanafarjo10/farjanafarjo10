@@ -14,10 +14,9 @@ I’m a Front End Web developer who is passionate about making error-free websit
 <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Photoshop / Illustrator <br></p>
 
 <h2 >📧 For Business Inquiries</h2>
-<p dir="auto"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>  ► <a href="mailto:farjanafarjo10@gmail.com">farjanafarjo10@gmail.com</a></p>
+<p> ✅ ► <a href="mailto:farjanafarjo10@gmail.com">farjanafarjo10@gmail.com</a></p>
 
 <h2 >☕ Connect with me!</h2>
-
 <p align="left">
 <a href="https://fb.com/facebook/farjanafarjo10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook/farjanafarjo10" height="30" width="40" /></a>
 </p>
