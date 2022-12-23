@@ -3,6 +3,8 @@
 
 ![cover](https://raw.githubusercontent.com/farjanafarjo10/farjanafarjo10/main/Banner.png)
 
+![Profile views](https://gpvc.arturio.dev/farjanafarjo10)  
+
 <h2 >🚀 About Me</h2>
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
 
