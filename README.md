@@ -5,10 +5,11 @@
 
 ![Profile views](https://gpvc.arturio.dev/farjanafarjo10)  
 
-<h2 >🚀 About Me</h2>
+###🚀 About Me
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
 
-<h2>👨‍💻 Skills &amp; Experiance:</h2>
+###👨‍💻 Skills &amp; Experiance:
+✅ HTML5 / CSS3 / SASS / Bootstrap
 <p>
 <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> HTML5 / CSS3 / SASS / Bootstrap <br>
 <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> JavaScript <br>
