@@ -1,6 +1,7 @@
 
 <h2 align="center"> Hi 👋, I'm Farjana Farjo</h2>
 <h3 align="center">👑 I am Web Developer</h3>
+<h3 align="center">❤️ Love to write code</h3>
 
 ![cover](https://raw.githubusercontent.com/farjanafarjo10/farjanafarjo10/main/Banner.png)
 
