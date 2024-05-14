@@ -12,13 +12,14 @@
 ## 🚀 About Me
 <p>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.</p>
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farjanafarjo10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 <h2 align="left">I code with</h2>
 ###
+<div align="right"  height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farjanafarjo10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
