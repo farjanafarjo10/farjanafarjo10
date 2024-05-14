@@ -5,7 +5,7 @@
   ❤️ Love to write code
 </p>
 <div align="center">
-  <img height="320" src="[https://i.ibb.co/6X5VJxK/ezgif-com-resize.gif](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)"  />
+  <img height="320" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif"  />
 </div>
 <div align="center">
   <img height="320" src="https://i.ibb.co/6X5VJxK/ezgif-com-resize.gif"  />
