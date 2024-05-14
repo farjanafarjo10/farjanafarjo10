@@ -4,12 +4,10 @@
   👑 I am Web Developer</br>
   ❤️ Love to write code
 </p>
-<div align="center">
-  <img height="280" width=""890 src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif"  />
-</div>
+
 
 ###
-![I am GitHub Readme Generator's creator](https://ibb.co/HhQ1psc)
+![I am GitHub Readme Generator's creator]([https://ibb.co/HhQ1psc](https://i.ibb.co/6X5VJxK/ezgif-com-resize.gif))
 ###
 
 ![Profile views](https://gpvc.arturio.dev/farjanafarjo10)  
