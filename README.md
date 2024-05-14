@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
 </div>
-
+<br clear="both">
 <h2 align="left">📧 For Business Inquiries</h2>
 
 <div align="left">
