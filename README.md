@@ -5,7 +5,7 @@
   ❤️ Love to write code
 </p>
 
-![cover](<img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" height="320">)
+<img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" height="320">
 
 ![Profile views](https://gpvc.arturio.dev/farjanafarjo10)  
 
