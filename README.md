@@ -5,7 +5,7 @@
   ❤️ Love to write code
 </p>
 
-![cover](https://raw.githubusercontent.com/farjanafarjo10/farjanafarjo10/main/Banner.png)
+![cover]([https://raw.githubusercontent.com/farjanafarjo10/farjanafarjo10/main/Banner.png](https://gifdb.com/gif/coding-skills-loading-dk68v8z0hevjpuiv.html?embed=true))
 
 ![Profile views](https://gpvc.arturio.dev/farjanafarjo10)  
 
