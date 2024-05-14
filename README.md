@@ -5,7 +5,7 @@
   ❤️ Love to write code
 </p>
 <div align="center">
-  <img height="280" weight=""890 src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif"  />
+  <img height="280" width=""890 src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif"  />
 </div>
 
 ###
