@@ -4,7 +4,7 @@
   👑 I am Web Developer</br>
   ❤️ Love to write code
 </p>
-
+<img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" width="640px" height="320">
 ![cover](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif width="640px" height="320")
 
 ![Profile views](https://gpvc.arturio.dev/farjanafarjo10)  
