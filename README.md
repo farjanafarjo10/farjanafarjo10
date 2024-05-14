@@ -16,7 +16,7 @@
 <h2 align="left">I code with</h2>
 
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=farjanafarjo10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=farjanafarjo10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
 
 
 
@@ -37,7 +37,7 @@
   <img width="12" />
 </div>
 
-## 📧 For Business Inquiries
+### 📧 For Business Inquiries
 <div align="left">
 <a href="mailto:farjanafarjo10@gmail.com">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
