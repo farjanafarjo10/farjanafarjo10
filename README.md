@@ -7,7 +7,7 @@
 
 
 ###
-![I am GitHub Readme Generator's creator]([https://ibb.co/HhQ1psc](https://i.ibb.co/6X5VJxK/ezgif-com-resize.gif))
+![I am GitHub Readme Generator's creator](https://i.ibb.co/6X5VJxK/ezgif-com-resize.gif)
 ###
 
 ![Profile views](https://gpvc.arturio.dev/farjanafarjo10)  
