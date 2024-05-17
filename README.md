@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img height="320" src="https://i.ibb.co/6X5VJxK/ezgif-com-resize.gif"  />
+  <img src="https://i.ibb.co/6X5VJxK/ezgif-com-resize.gif"  />
 </div>
 
 <h2 align="left">🚀 About Me</h2>
