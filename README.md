@@ -3,10 +3,10 @@
 <p align="center">
   ❤️ Love to write code
 </p>
-<div align="center">
-![Project Banner](https://github.com/farjanafarjo10/farjanafarjo10/blob/main/banner.gif)
-</div>
 
+<div align="center">
+  <img src="https://github.com/farjanafarjo10/farjanafarjo10/blob/main/banner.gif" alt="Project Banner">
+</div>
 
 <h2 align="left">🚀 About Me</h2>
 
