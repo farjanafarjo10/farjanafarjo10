@@ -4,7 +4,7 @@
   ❤️ Love to write code
 </p>
 
-![Project Banner](https://i.ibb.co/6X5VJxK/ezgif-com-resize.gif)
+![Project Banner](https://github.com/farjanafarjo10/farjanafarjo10/blob/main/banner.gif)
 
 
 <h2 align="left">🚀 About Me</h2>
