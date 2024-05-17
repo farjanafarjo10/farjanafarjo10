@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.ibb.co/6X5VJxK/ezgif-com-resize.gif"  />
+  https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif
 </div>
 
 <h2 align="left">🚀 About Me</h2>
