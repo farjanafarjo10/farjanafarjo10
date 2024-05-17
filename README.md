@@ -4,7 +4,7 @@
   ❤️ Love to write code
 </p>
 
-![Project Banner]([https://i.imgur.com/yourimage.gif](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif))
+![Project Banner](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif))
 
 
 <h2 align="left">🚀 About Me</h2>
